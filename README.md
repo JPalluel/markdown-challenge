@@ -9,5 +9,24 @@
 
 |Birthday         | Favorite color| favorite food| Pineapple on Pizza|
 | ----------------|---------------|--------------|-------------------|
-| 08/04/1992      | red           | cheese       |yes [x]  No[]      |
+| 08/04/1992      | red           | cheese       |Yes - [x] No - [ ] |
+</br>
 
+### My Hobbies:</br>
+
+* Voyages  
+    * Nouvelle-Zélande
+    * Asie du Sud-est
+    * Europe
+* Lecture
+* Sport
+  
+### You can always count on me when:
+* You need support!
+* You need a drink
+* You need help! Even if i'm a real beginner, i'll be happy to try to help</br>
+
+#### Funny story about me:
+
+*I am a big fan of the Lord of the Ring, going to hobbiton was on my bucketlist... Checked!
+         

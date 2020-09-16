@@ -15,8 +15,8 @@
 ### My Hobbies:</br>
 
 * Voyages  
-    * Nouvelle-Zélande
-    * Asie du Sud-est
+    * New-Zealand
+    * South-Est Asia
     * Europe
 * Lecture
 * Sport
@@ -28,5 +28,9 @@
 
 #### Funny story about me:
 
-*I am a big fan of the Lord of the Ring, going to hobbiton was on my bucketlist... Checked!
+*I am a big fan of the Lord of The Ring, iused to have aragorn posters all over my room...*
+
+##### TL, DR:
+
+ *And going to hobbiton was on my bucketlist... Done!*
          

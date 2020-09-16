@@ -4,4 +4,14 @@
 
 ![photo](https://github.com/JPalluel/markdown-challenge/blob/master/IMG_20200217_120919.jpg)
 
-## A baby developper in training...
+
+## A baby web developper in training...</br>
+
+|Birthday         |08/04/1992
+--------------------------------
+|favorite color   | red
+--------------------------------
+|favorite food    | raclette
+--------------------------------
+|Pinapple on pizza| yes
+--------------------------------

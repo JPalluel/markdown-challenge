@@ -18,7 +18,8 @@
     * New-Zealand
     * South-Est Asia
     * Europe
-* Lecture
+    * Chili
+* Reading
 * Sport
   
 ### You can always count on me when:

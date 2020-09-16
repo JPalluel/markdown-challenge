@@ -9,5 +9,5 @@
 
 |Birthday         | Favorite color| favorite food| Pineapple on Pizza|
 | ----------------|---------------|--------------|-------------------|
-| 08/04/1992      | red           | cheese       |yes                |
+| 08/04/1992      | red           | cheese       |yes [x]  No[]      |
 

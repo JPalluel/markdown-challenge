@@ -7,11 +7,7 @@
 
 ## A baby web developper in training...</br>
 
-|Birthday         |08/04/1992
---------------------------------
-|favorite color   | red
---------------------------------
-|favorite food    | raclette
---------------------------------
-|Pinapple on pizza| yes
---------------------------------
+|Birthday         | Favorite color| favorite food| Pineapple on Pizza|
+| ----------------|---------------|--------------|-------------------|
+| 08/04/1992      | red           | cheese       |yes                |
+

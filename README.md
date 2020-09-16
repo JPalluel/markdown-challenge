@@ -1,6 +1,5 @@
 # Juliette Palluel
 *"Not all those who wonders are lost" J.R.R Tolkien*
-![photo](https://github.com/JPalluel/markdown-challenge/blob/master/IMG_20200217_120919.jpg)
+![photo](https://www.xaprb.com/media/2018/08/kitten.jpg#thumbnail)
 
-
-
+## A baby developper in training...

@@ -14,7 +14,7 @@
 
 ### My Hobbies:
 
-* Voyages  
+* Travel  
     * New-Zealand
     * South-Est Asia
     * Europe
@@ -23,13 +23,12 @@
 * Sport
   
 ### You can always count on me when:
-* You need support!
-* You need a drink
-* You need help! Even if i'm a real beginner, i'll be happy to try to help
+* You need a drink to release the pressure...
+* You need help! Even if i'm a real beginner, i'll be happy to try 
 
 #### Funny story about me:
 
-*I am a big fan of the Lord of The Ring, iused to have aragorn posters all over my room...*
+*I am a big fan of the Lord of The Ring, I used to have aragorn posters all over my room...*
 
 ##### TL, DR:
 

@@ -5,14 +5,14 @@
 ![photo](https://github.com/JPalluel/markdown-challenge/blob/master/IMG_20200217_120919.jpg)
 
 
-## A baby web developper in training...</br>
+## A baby web developper in training...
 
 |Birthday         | Favorite color| favorite food| Pineapple on Pizza|
 | ----------------|---------------|--------------|-------------------|
 | 08/04/1992      | red           | cheese       |Yes - [x] No - [ ] |
 </br>
 
-### My Hobbies:</br>
+### My Hobbies:
 
 * Voyages  
     * New-Zealand
@@ -25,7 +25,7 @@
 ### You can always count on me when:
 * You need support!
 * You need a drink
-* You need help! Even if i'm a real beginner, i'll be happy to try to help</br>
+* You need help! Even if i'm a real beginner, i'll be happy to try to help
 
 #### Funny story about me:
 
@@ -35,3 +35,6 @@
 
  *And going to hobbiton was on my bucketlist... Done!*
          
+< < [Previous](https://github.com/Ibrahim-sho/markdown-challenge/blob/master/README.md) || Juliette Palluel || [Next](https://github.com/LuisRodrigues8019/markdown-challenge/blob/master/README.md) > >
+
+
